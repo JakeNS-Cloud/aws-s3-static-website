@@ -36,3 +36,5 @@ Key Takeaways:
   - Applied least-privilege security principles
   - Designed a simple, cost-effective cloud solution
   - Developed basic HTML skills to design the site
+
+More of my work on my portfolio page! https://github.com/JakeNS-Cloud/JakeNS-Portfolio 
